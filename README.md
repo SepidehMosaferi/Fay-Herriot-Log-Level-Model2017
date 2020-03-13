@@ -4,7 +4,7 @@ This is the old version of the R code related to the "An Adjusted Predictor for 
 
 
 
-The first version of this work was presented as a Poster in 2015 in the ISI SAE conference. Further details:
+[1] The first version of this work was presented as a Poster in 2015 in the ISI SAE conference. Further details:
 
 
 Author: Sepideh Mosaferi
@@ -16,7 +16,7 @@ Year: 2015
 Poster in the First Latin American ISI Satellite Meeting on Small Area Estimation, Santiago, Chile, August 3-5, 2015.
 
 
-The second version of this work was presented as a Poster in 2016 in the APPOR conference. Further details:
+[2] The second version of this work was presented as a Poster in 2016 in the APPOR conference. Further details:
 
 
 Author: Sepideh Mosaferi
